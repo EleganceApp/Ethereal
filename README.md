@@ -25,6 +25,3 @@ Ethereal Account System - Quick Start Guide
   - Try different username
 ✓ License issues:
   - Verify correct key format
-  - Contact helpethereal20@gmail.com
-
-Support: helpethereal20@gmail.com
