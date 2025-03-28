@@ -1,3 +1,10 @@
+The only thing that work are the 
+License_Key
+Ethereal
+EtherealAccount
+
+There nothing on the Ethereal just show the License Key just for test
+
 Ethereal Account System - Quick Start Guide
 
 1. FIRST LAUNCH
