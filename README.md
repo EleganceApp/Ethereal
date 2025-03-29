@@ -1,32 +1,12 @@
-🚀 Ethereal Account System - Quick Start
-1. First Launch
-▶ Run EtherealAccount.pyw
-• New users → [Register]
-• Existing users → [Login]
+Ethereal Account System
 
-2. Registration
-✔ Required:
+⚠️ Important Notice
+Always download the latest version via:
+Code → Download ZIP (auto-generated ZIPs may be outdated)
 
-Unique username
+✨ Features
+User Authentication (Register/Login)
 
-Secure password
+License Key Validation (25-character format)
 
-Valid email
-✔ Optional:
-
-License key (add now or via Profile)
-
-3. License Keys
-🔑 Format: XXXXX-XXXXX-XXXXX (25 chars)
-📂 Source: License_Key file
-✅ Auto-validates on entry
-
-4. Troubleshooting
-🔧 Registration issues:
-
-Ensure all fields are complete
-
-Try a different username
-🔑 Key errors:
-
-Verify 25-character format
+Profile Management (Add keys post-registration)
