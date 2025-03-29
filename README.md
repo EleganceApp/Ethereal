@@ -1,6 +1,7 @@
 Ethereal Account System
 
-⚠️ Important Notice
+⚠️  Important Notice  ⚠️ 
+
 Always download the latest version via:
 Code → Download ZIP (auto-generated ZIPs may be outdated)
 
