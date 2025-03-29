@@ -1,30 +1,32 @@
-⚠️ Important
-"Source code (zip)" may be outdated
-↓ Current version: Code → Download ZIP
+🚀 Ethereal Account System - Quick Start
+1. First Launch
+▶ Run EtherealAccount.pyw
+• New users → [Register]
+• Existing users → [Login]
 
-✅ Auto-validates
+2. Registration
+✔ Required:
 
-⚠️ Troubleshooting
-• Can't register? → Check fields/try new username
-• Key issues? → Verify 25-char format
+Unique username
 
+Secure password
 
+Valid email
+✔ Optional:
 
-Core Components
-• 🔑 License_Key - Activation
-• 📱 Ethereal - Main app (test mode)
-• 👥 EtherealAccount - User system
+License key (add now or via Profile)
 
+3. License Keys
+🔑 Format: XXXXX-XXXXX-XXXXX (25 chars)
+📂 Source: License_Key file
+✅ Auto-validates on entry
 
-▶️ Quick Start
+4. Troubleshooting
+🔧 Registration issues:
 
-Run EtherealAccount.pyw
+Ensure all fields are complete
 
-New user? [Register]
+Try a different username
+🔑 Key errors:
 
-Returning? [Login]
-
-
- Troubleshooting
-• Registration issues → Check fields
-• Key problems → Verify format
+Verify 25-character format
