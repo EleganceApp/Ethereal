@@ -1,34 +1,53 @@
-The only thing that work are the 
-License_Key
-Ethereal
-EtherealAccount
+Important Note
+Do not download "Source code (zip)" – it may not be up to date.
+To get the latest version, click Code → Download ZIP.
 
-There nothing on the Ethereal just show the License Key just for test
+Current Working Features
+The system currently supports:
 
-Ethereal Account System - Quick Start Guide
+License_Key (for activation)
 
-1. FIRST LAUNCH
-- Run "EtherealAccount.pyw"
-- New users: Click [Register]
-- Existing users: Enter credentials and click [Login]
+Ethereal (main application)
 
-2. REGISTRATION
-* Required Fields:
-  - Unique username
-  - Secure password
-  - Valid email address
-* Optional: 
-  - Paste license key if available
-  - Can activate later via Profile
+EtherealAccount (user management)
 
-3. LICENSE KEYS
-- Format: XXXXX-XXXXX-XXXXX (25 chars)
-- Get keys from:> get key from License_Key
-- Activation automatically validates key
+⚠️ Note: The Ethereal app only displays the License Key for testing purposes.
 
-4. TROUBLESHOOTING
-✓ Registration fails:
-  - Check all fields completed
-  - Try different username
-✓ License issues:
-  - Verify correct key format
+Ethereal Account System – Quick Start Guide
+1. First Launch
+Run EtherealAccount.pyw.
+
+New users? Click [Register].
+
+Existing users? Enter credentials and click [Login].
+
+2. Registration
+✔ Required Fields:
+
+Unique username
+
+Secure password
+
+Valid email address
+✔ Optional:
+
+Paste a license key (if available)
+
+Can activate later via Profile
+
+3. License Keys
+Format: XXXXX-XXXXX-XXXXX (25 characters)
+
+Where to get keys? → Check License_Key file.
+
+Activation automatically validates the key.
+
+4. Troubleshooting
+🔹 Registration fails?
+
+Ensure all fields are filled.
+
+Try a different username.
+🔹 License issues?
+
+Verify the key follows the correct format.
