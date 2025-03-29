@@ -1,17 +1,22 @@
-Important Notice
-The "Source code (zip)" auto-download may be outdated. For current version:
+⚠️ Important
+"Source code (zip)" may be outdated
+↓ Current version: Code → Download ZIP
 
-Click Code → Download ZIP
+✅ Auto-validates
 
-Active Components
+⚠️ Troubleshooting
+• Can't register? → Check fields/try new username
+• Key issues? → Verify 25-char format
 
-License_Key: Activation system
 
-Ethereal: Main app (shows keys for testing)
 
-EtherealAccount: User management
+Core Components
+• 🔑 License_Key - Activation
+• 📱 Ethereal - Main app (test mode)
+• 👥 EtherealAccount - User system
 
-Quick Start
+
+▶️ Quick Start
 
 Run EtherealAccount.pyw
 
@@ -19,20 +24,7 @@ New user? [Register]
 
 Returning? [Login]
 
-Registration:
 
-Required: Username, Password, Email
-
-Optional: License key (add now or later)
-
-License Keys:
-
-Format: XXXXX-XXXXX-XXXXX
-
-Source: License_Key file
-
-Auto-validates on entry
-
-Ensure the key matches the specified format.
-
-Verify the key has not been previously redeemed.
+ Troubleshooting
+• Registration issues → Check fields
+• Key problems → Verify format
