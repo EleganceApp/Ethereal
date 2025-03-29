@@ -1,53 +1,59 @@
-Important Note
-Do not download "Source code (zip)" – it may not be up to date.
-To get the latest version, click Code → Download ZIP.
+Important Notice
+Avoid downloading "Source code (zip)" as it may not reflect the latest updates.
+To ensure you have the most recent version:
 
-Current Working Features
-The system currently supports:
+Navigate to the repository.
 
-License_Key (for activation)
+Click Code → Download ZIP.
 
-Ethereal (main application)
+upported Features
+The current build includes the following functional components:
 
-EtherealAccount (user management)
+License_Key – Handles product activation.
 
-⚠️ Note: The Ethereal app only displays the License Key for testing purposes.
+Ethereal – Core application (currently in testing phase).
+
+EtherealAccount – User authentication and management system.
+
+Note: At this stage, the Ethereal application is configured to display License Key entries for validation purposes only.
 
 Ethereal Account System – Quick Start Guide
-1. First Launch
-Run EtherealAccount.pyw.
+Initial Setup
+Launch EtherealAccount.pyw.
 
-New users? Click [Register].
+New Users: Select [Register] to create an account.
 
-Existing users? Enter credentials and click [Login].
+Existing Users: Enter your credentials and select [Login].
 
-2. Registration
-✔ Required Fields:
+Account Registration
+Required Fields:
 
-Unique username
+A unique username
 
-Secure password
+A strong password
 
-Valid email address
-✔ Optional:
+A valid email address
 
-Paste a license key (if available)
+Optional Fields:
 
-Can activate later via Profile
+License key (may be entered during registration or activated later via Profile)
 
-3. License Keys
-Format: XXXXX-XXXXX-XXXXX (25 characters)
+License Key Management
+Format: 25-character alphanumeric (e.g., XXXXX-XXXXX-XXXXX).
 
-Where to get keys? → Check License_Key file.
+Acquisition: Keys are provided in the License_Key file.
 
-Activation automatically validates the key.
+Validation: The system automatically verifies keys upon entry.
 
-4. Troubleshooting
-🔹 Registration fails?
+Troubleshooting
+Registration Errors:
 
-Ensure all fields are filled.
+Confirm all required fields are completed.
 
-Try a different username.
-🔹 License issues?
+Attempt an alternative username if the chosen one is unavailable.
 
-Verify the key follows the correct format.
+License Key Issues:
+
+Ensure the key matches the specified format.
+
+Verify the key has not been previously redeemed.
