@@ -1,58 +1,37 @@
 Important Notice
-Avoid downloading "Source code (zip)" as it may not reflect the latest updates.
-To ensure you have the most recent version:
+The "Source code (zip)" auto-download may be outdated. For current version:
 
-Navigate to the repository.
+Click Code → Download ZIP
 
-Click Code → Download ZIP.
+Active Components
 
-upported Features
-The current build includes the following functional components:
+License_Key: Activation system
 
-License_Key – Handles product activation.
+Ethereal: Main app (shows keys for testing)
 
-Ethereal – Core application (currently in testing phase).
+EtherealAccount: User management
 
-EtherealAccount – User authentication and management system.
+Quick Start
 
-Note: At this stage, the Ethereal application is configured to display License Key entries for validation purposes only.
+Run EtherealAccount.pyw
 
-Ethereal Account System – Quick Start Guide
-Initial Setup
-Launch EtherealAccount.pyw.
+New user? [Register]
 
-New Users: Select [Register] to create an account.
+Returning? [Login]
 
-Existing Users: Enter your credentials and select [Login].
+Registration:
 
-Account Registration
-Required Fields:
+Required: Username, Password, Email
 
-A unique username
+Optional: License key (add now or later)
 
-A strong password
+License Keys:
 
-A valid email address
+Format: XXXXX-XXXXX-XXXXX
 
-Optional Fields:
+Source: License_Key file
 
-License key (may be entered during registration or activated later via Profile)
-
-License Key Management
-Format: 25-character alphanumeric (e.g., XXXXX-XXXXX-XXXXX).
-
-Acquisition: Keys are provided in the License_Key file.
-
-Validation: The system automatically verifies keys upon entry.
-
-Troubleshooting
-Registration Errors:
-
-Confirm all required fields are completed.
-
-Attempt an alternative username if the chosen one is unavailable.
-
-License Key Issues:
+Auto-validates on entry
 
 Ensure the key matches the specified format.
 
